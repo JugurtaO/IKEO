@@ -44,6 +44,43 @@ Niveau: Licence 3 MIAGE
 
 ---
 
+### Ma constribution:
+Développement d'une application web dédiée à l'optimisation des plannings de livraison en entrepôt et à la gestion efficace des tournées des livreurs.
+
+Dans une équipe de 6 collaborateurs, on m'a confié la construction d'une partie du serveur avec le framework spring boot.
+
+Technologies utilisées:
+
+ ⦁ Java/Spring boot pour le backend.
+ ⦁ PostgreSQL pour la base de données.
+ ⦁ Swagger pour documentation de l'API.
+ ⦁ JUnit pour les tests.
+
+Mes missions sont les suivantes :
+
+ ⦁ Réalisation de la documentation de l’API.
+ ⦁ Construction du squelette de l'application en suivant l'architecture hexagonale.
+ ⦁ Revue de code.
+ ⦁ Implémentation et développement de tests unitaires et d'intégration.
+ (Plannification et visualisation d'une journée de la part du plannificateur, chargement et mise à 
+ jours de l'état d'une tournée de la part du livreur.
+ ⦁ Implémentation des mappeurs.
+ ⦁ Analyse de fichiers CSV et alimentation de la base de données.
+ ⦁ Refactorisation de code et tests de l'API avec Insomnia.
+ ⦁ Aide des coéquipiers à corriger les bugs et à améliorer les fonctionnalités ou les algorithmes.
+
+Mes améliorations :
+
+ ⦁ Maîtrise de l'architecture hexagonale.
+ ⦁ Maîtrise de la gestion des erreurs techniques et rest.
+ ⦁ Amélioration de la collaboration au sein de l'équipe.
+ ⦁ Exploration du DevOps et mise en place de la méthodologie agile.
+ ⦁ Utilisation de Trello pour la planification des tâches.
+ ⦁ Maîtrise de Gitflow en équipe (fonctionnalités et branches, pull requests et routines de revue 
+ de code).
+ ⦁ Communication et réunions quotidiennes.
+ ⦁ Compréhension de la philosophie de Spring.
+
 ### Comment lancer le server
 mettez vous à la racine du projet et sur la ligne de commande tapez la commande suivante:
 
